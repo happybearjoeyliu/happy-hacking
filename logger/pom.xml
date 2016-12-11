@@ -3,14 +3,14 @@
     <parent>
         <artifactId>happy-hacking-parent</artifactId>
         <groupId>com.baidu.joey</groupId>
-        <version>1.0.0</version>
+        <version>1.0.0-SNAPSHOT</version>
         <relativePath>../happy-hacking-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>logger</artifactId>
 
-	<version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
 	<!--mark-->
 	<scm>
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>com.baidu.joey</groupId>
             <artifactId>happy-hacking-logger-bom</artifactId>
-			<version>${project.version}</version>
+			<version>1.0.0-SNAPSHOT</version>
 			<type>pom</type>
         </dependency>
 
