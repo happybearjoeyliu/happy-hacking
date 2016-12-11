@@ -14,7 +14,7 @@
 		<connection>scm:git:https://github.com/happybearjoeyliu/happy-hacking.git</connection>
 		<developerConnection>scm:git:git@github.com:happybearjoeyliu/happy-hacking.git</developerConnection>
 		<url>https://github.com/happybearjoeyliu/happy-hacking</url>
-  	  <tag>happy-hacking-parent-1.0.0</tag>
+		<tag>HEAD</tag>
   </scm>	
 
     <modules>
